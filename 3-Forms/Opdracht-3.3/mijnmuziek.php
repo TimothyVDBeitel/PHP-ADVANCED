@@ -20,4 +20,4 @@
     </form>
 </body>
 </html>
-<!-http://localhost/PHP-ADVANCED/3-Forms/Opdracht-3.3/gegevens.php?artist=RHCP&liedje=Can%27t+stop&uitgave=2003&muzieksoort=Rock->
+
